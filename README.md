@@ -1,2 +1,2 @@
 # MLSA-BOOTCAMP
-Data Science bootcamp hosted by MLSA University of Lagos
+Data Science bootcamp hosted by MLSA University of Lagos, Nigeria
